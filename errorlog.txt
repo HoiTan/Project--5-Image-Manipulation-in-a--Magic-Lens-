@@ -1,0 +1,6 @@
+
+ERROR: 0:16: Use of undeclared identifier 'uImageUnit'
+ERROR: 0:17: Use of undeclared identifier 'rgb'
+ERROR: 0:48: Use of undeclared identifier 'uImageUnit'
+ERROR: 0:49: Use of undeclared identifier 'rgb'
+
