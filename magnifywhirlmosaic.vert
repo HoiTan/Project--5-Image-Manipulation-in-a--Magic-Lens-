@@ -1,6 +1,6 @@
-// #version 330 compatibiility
+#version 330 compatibility
 
-varying vec2 vST;
+out vec2 vST;
 
 void 
 main()
